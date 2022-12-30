@@ -61,8 +61,8 @@ global.socialm = "GitHub: RavensVenix" //ur github or insta name
 global.location = "Isekai, Taman Hiburan, Pemandian Umum" //ur location
 
 //bot bomdy 
-global.owner = ['6281338302495']
-global.ownertag = '6281338302495' //ur tag number
+global.owner = ['254748004423']
+global.ownertag = '254748004423' //ur tag number
 global.botname = '❣︎𝟔𝐱𝐑𝐞𝐯𝐞𝐠𝐞𝐧𝐜𝐲✞' //ur bot name
 global.linkz = "https://m.youtube.com/watch?v=wMPz2If96wM" //your theme url which will be displayed on whatsapp
 global.websitex = "http://nyxworldx.blogspot.com/" //ur website to be displayed
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur thumb pic
 
 //damtabase
-global.premium = ['6281338302495'] //ur premium numbers
+global.premium = ['254748004423'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
